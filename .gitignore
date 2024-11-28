@@ -1,0 +1,4 @@
+venv/
+.env
+chw_app.db
+__pycache__/
